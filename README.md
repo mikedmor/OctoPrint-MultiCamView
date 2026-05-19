@@ -26,4 +26,4 @@ Add camera urls in plugin settings setting the appropriate type.
 ## Support My Efforts
 I programmed this plugin for fun and do my best effort to support those that have issues with it, please return the favor and support me.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/jneilliii)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/mikedmor)
