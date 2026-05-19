@@ -9,7 +9,7 @@ This plugin simply gives you the ability to add multiple webcam views on a singl
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/jneilliii/OctoPrint-MultiCamView/archive/master.zip
+    https://github.com/mikedmor/OctoPrint-MultiCamView/archive/master.zip
 
 ## Configuration
 
